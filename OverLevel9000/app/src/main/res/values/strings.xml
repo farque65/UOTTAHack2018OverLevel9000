@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">OverLevel9000</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+
+    <!-- EDIT TEXTS -->
+    <string name="edit_text_email">Email Address</string>
+    <string name="edit_text_first_name">First Name</string>
+    <string name="edit_text_last_name">Last Name</string>
+
+    <string name="submit_text">Submit</string>
+    <string name="submit_description">Please enter your credentials in the fields below</string>
 </resources>
