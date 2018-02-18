@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796884024951",
+    "firebase_url": "https://overlevel9000-3f4a5.firebaseio.com",
+    "project_id": "overlevel9000-3f4a5",
+    "storage_bucket": "overlevel9000-3f4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796884024951:android:6fb36275260e61f8",
+        "android_client_info": {
+          "package_name": "uottawahack.overlevel9000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796884024951-nu2khp8jlbbi1ic4dcjeei8lk903jpu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uottawahack.overlevel9000",
+            "certificate_hash": "f82ede12697d3c2706d9680b88e7da63b562123e"
+          }
+        },
+        {
+          "client_id": "796884024951-f19hhhl7hoa2ahg2mp5ikp4g980tb259.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9cnnp3eU4qGYtDwWPhboYm1pLfqmYAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796884024951-f19hhhl7hoa2ahg2mp5ikp4g980tb259.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
