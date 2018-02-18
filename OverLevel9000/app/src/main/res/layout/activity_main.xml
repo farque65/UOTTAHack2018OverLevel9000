@@ -14,9 +14,7 @@
         android:background="#595959"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:drawable="true"
         android:layout_weight="1">
-
         <TextView
             android:id="@+id/txtAbout"
             android:layout_width="match_parent"
@@ -35,7 +33,7 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:layout_marginTop="50dp"
-            android:text="XX:XX:XX"
+            android:text="XX:XX"
             android:textSize="24pt"
             android:textColor="#000000"
             />
