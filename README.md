@@ -3,9 +3,9 @@
 ## UOTTAHack2018 Team: OverLevel9000
 
 ### Team Members:
-* [Fahim Farque](https://github.com/farque65)
-* [Benoît Jeaurond](https://github.com/BenJeau)
 * [Arsalan Sadiq](https://github.com/arsalansadiq)
+* [Benoît Jeaurond](https://github.com/BenJeau)
+* [Fahim Farque](https://github.com/farque65)
 * [Lucas Anderson](https://github.com/EarlyHemisphere)
 
 ### UOTTAHACK2018 RL Systems Hacking Challenge
