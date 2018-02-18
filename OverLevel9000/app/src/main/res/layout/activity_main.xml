@@ -23,8 +23,9 @@
             android:gravity="center_horizontal"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="80dp"
             android:textColor="#ffffff"
+            android:textSize="14pt"
             android:text="About" />
 
         <TextView
@@ -32,9 +33,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="35dp"
             android:text="XX:XX"
-            android:textSize="24pt"
+            android:textSize="32pt"
             android:textColor="#000000"
             />
 
@@ -52,7 +53,8 @@
             android:gravity="center_horizontal"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_marginTop="85dp"
+            android:layout_marginTop="50dp"
+            android:textSize="14pt"
             android:textColor="#ffffff"
             android:text="remaining" />
 
